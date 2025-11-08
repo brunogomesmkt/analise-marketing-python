@@ -1,21 +1,20 @@
-# analise-marketing-python
-Análise de Campanha de Marketing - Perfil de Clientes (EDA)
+##  Análise de Campanha de Marketing - Perfil de Clientes (EDA)
 
 Este repositório contém uma Análise Exploratória de Dados (EDA) realizada sobre um conjunto de dados de marketing. O objetivo é dissecar os dados para entender padrões de consumo, identificar perfis de clientes e extrair insights que possam orientar futuras estratégias de marketing digital.
 
-🎯 Objetivo do Projeto
+##  🎯 Objetivo do Projeto
 O objetivo principal desta análise é realizar uma Análise Exploratória de Dados (EDA) para responder a perguntas de negócio fundamentais sobre o comportamento do cliente.
 
 Queremos "ouvir" o que os dados têm a dizer para identificar quem são os clientes mais valiosos e como eles se comportam.
 
-📊 Dataset Utilizado
+##  📊 Dataset Utilizado
 Para este estudo, utilizámos o "Marketing Campaign Dataset", um conjunto de dados popular e detalhado disponível publicamente na plataforma Kaggle.
 
 Fonte: Kaggle - Marketing Campaign Dataset
 
 Descrição: O dataset agrega dados de 2.240 clientes, incluindo informações demográficas (idade, renda, escolaridade, agregado familiar), hábitos de consumo (gastos em vinhos, frutas, carne, etc.) e o desempenho em campanhas de marketing anteriores.
 
-❓ Perguntas de Negócio (Questões da Análise)
+##  ❓ Perguntas de Negócio (Questões da Análise)
 A nossa exploração foi guiada pelas seguintes perguntas-chave:
 
 Qual é o perfil demográfico médio dos clientes (distribuição de idade, renda e nível educacional)?
@@ -28,7 +27,7 @@ Como a composição familiar (número de crianças ou adolescentes em casa) afet
 
 Quais são os produtos (ex: vinhos, carne, frutas) preferidos pelos clientes que mais gastam?
 
-💡 Principais Descobertas e Conclusões
+##  💡 Principais Descobertas e Conclusões
 Através da visualização e análise dos dados, chegámos às seguintes conclusões principais:
 
 Renda é Chave: Existe uma forte correlação positiva entre a renda (Income) e o gasto total (Total_Spent). Clientes com rendas mais altas gastam exponencialmente mais.
@@ -49,7 +48,7 @@ Não tem filhos ou adolescentes a viver em casa.
 
 Estes insights sugerem que campanhas de marketing para produtos de alto valor (como vinhos e carnes) devem ser segmentadas para este perfil específico, enquanto produtos mais económicos podem ser direcionados para famílias maiores.
 
-🛠️ Ferramentas Utilizadas
+##  🛠️ Ferramentas Utilizadas
 Linguagem: Python
 
 Bibliotecas:
